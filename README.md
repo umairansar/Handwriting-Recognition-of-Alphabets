@@ -32,4 +32,4 @@ This single object image classification can be revamped to recognize multiple nu
 ### Note:
 Adding hidden layers and CNN can greatly increase the accuracy of the model. This model is was created while taking simplicity into account.
 
-### This article can also be read at : umuzworld.com
+#### This repository can also be accesed at umuzworld.com
